@@ -2,18 +2,20 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, YOURNAME, policy to respect your privacy regarding any information I may collect from you across my website, YOURDOMAIN.
+当サイトは，ユーザーの個人情報について以下のとおりプライバシーポリシー（以下、「本ポリシー」という。）を定めます。本ポリシーは、当サイトがどのような個人情報を取得し、どのように利用・共有するか、ユーザーがどのようにご自身の個人情報を管理できるかをご説明するものです。
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+### SSL（Secure Socket Layer）について
+当サイトはSSLに対応しており、WebブラウザとWebサーバーとの通信を暗号化しています。
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+### cookieについて
+cookieとは、WebサーバーからWebブラウザに送信されるデータのことです。Webサーバーがcookieを参照することでユーザーのパソコンを識別でき、効率的に当サイトを利用することができます。当サイトがcookieとして送るファイルは、個人を特定するような情報は含んでおりません。お使いのWebブラウザの設定により、cookieを無効にすることも可能です。
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+### 免責事項
+当サイトに掲載されている情報の正確性には万全を期していますが、利用者が当サイトの情報を用いて行う一切の行為に関して、一切の責任を負わないものとします。 当サイトは、利用者が当サイトを利用したことにより生じた利用者の損害及び利用者が第三者に与えた損害に関して、一切の責任を負わないものとします。
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+### 著作権・肖像権
+当サイト内の文章や画像、すべてのコンテンツは著作権・肖像権等により保護されています。無断での使用や転用は禁止されています。
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
-
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
-
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+### プライバシーポリシーの制定日及び改定日
+- 制定：2022年8月11日
+- 改定：
