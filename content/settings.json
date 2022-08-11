@@ -28,8 +28,8 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "プライバシーポリシー", "url": "/privacy" },
+        { "label": "利用規約", "url": "/imprint" }
       ]
     },
     "featureToggles": {
