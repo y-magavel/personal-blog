@@ -6,6 +6,41 @@
         "src": "../../images/tech/Go-Logo_LightBlue.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/tech/Docker_Logo_Blue.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/tech/ts-logo-512.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "MySQL",
+      "image": {
+        "src": "../../images/tech/logo-mysql-170x115.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "React",
+      "image": {
+        "src": "../../images/tech/React-icon.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Git",
+      "image": {
+        "src": "../../images/tech/Git-Icon-1788C.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
