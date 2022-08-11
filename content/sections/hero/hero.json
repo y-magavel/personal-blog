@@ -10,9 +10,9 @@
   },
   "title": "I'm a software engineer based in Japan.",
   "subtitle": {
-    "prefix": "Please call me Magavel ",
-    "highlight": ":^)",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
   "description": "A portfolio site and personal tech blog.",
   "socialProfiles": {
