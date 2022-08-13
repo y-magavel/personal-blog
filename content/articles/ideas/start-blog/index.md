@@ -3,7 +3,7 @@ title: "個人ブログを始めてみました。"
 description: "個人ブログ兼ポートフォリオサイトの作成にあたっての記事です。"
 date: "2022-08-12"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: "../../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "First Markdown Post"
   caption: "caption"
 categories:
