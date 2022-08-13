@@ -7,9 +7,10 @@ banner:
   alt: "First Markdown Post"
   caption: "caption"
 categories:
-  - "はじめまして"
+  - "雑談"
 keywords:
   - "はじめまして"
+  - "雑談"
 ---
 
 はじめまして。Magavel（マガベルと読みます）です。
