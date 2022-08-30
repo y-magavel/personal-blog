@@ -5,7 +5,7 @@ module.exports = {
       options: {
         siteUrl: "https://magavel.dev/", // Used for sitemap generation
         manifestSettings: {
-          favicon: "./content/images/favicon.png", // Path is relative to the root
+          favicon: "./content/images/logo/favicon.png", // Path is relative to the root
           siteName: "Magavel", // Used in manifest.json
           shortName: "Magavel", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
